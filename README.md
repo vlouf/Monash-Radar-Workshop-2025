@@ -19,7 +19,7 @@ Welcome to the 2025 Monash University Workshop on how to use weather radar data.
 
 __To run this code locally on your desktop/laptop (after the workshop)__
 
-- Download and install [anaconda](https://www.anaconda.com/distribution/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) (Python>=3.7 version)
+- Download and install [miniforge](https://conda-forge.org/download/) (Python>=3.9 version)
 - Git clone [this repo](https://github.com/vlouf/Monash-Radar-Workshop-2025) or [download](https://github.com/vlouf/Monash-Radar-Workshop-2025/archive/master.zip) and unzip
 - Open your command prompt / terminal and install the required python libraries using the following command `conda env create -f environment.yml`
 - Activate your newly installed python environment `conda activate monash-radar` and install Jupyter `conda install jupyter`
