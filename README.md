@@ -1,4 +1,4 @@
-[colab](https://colab.research.google.com/)
+[Open colab](https://colab.research.google.com/)
 
 # Monash University Radar Workshop (24-26 November 2025)
 
