@@ -1,3 +1,5 @@
+[colab](https://colab.research.google.com/)
+
 # Monash University Radar Workshop (24-26 November 2025)
 
 Welcome to the 2025 Monash University Workshop on how to use weather radar data.
